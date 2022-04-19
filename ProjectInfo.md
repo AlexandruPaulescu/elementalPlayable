@@ -1,7 +1,8 @@
 # elementalPlayable
 This is the atmoshperic demo version of my indie dev studio's game, 'elemental'.
 
-Download from Itch.io : https://alexandrupaulescu.itch.io/elemental
+Download from Itch.io : https://retrocloudstudios.itch.io/elemental
+Steam page : https://store.steampowered.com/app/1956330/elemental/?beta=0
 
 I started this project because I love creating games and coding them in the most unique way possible. I learnt a lot of things while developing this project, ranging from advanced video editing, all the way to social media marketing.
 I learnt how to apply S.O.L.I.D correctly and concisely, as well as important OOP concepts, in Unity's main language, C#.
